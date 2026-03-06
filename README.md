@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kuba 👋</h1>
 <p>I'm 3rd year student pursuing Computer Science and Information Systems at Warsaw University of Technology.</p>
-<p>Passionate about algorithmics, compilers and low level programming.</p>
+<p>Passionate about algorithmics, compilers, operating systems and low level programming in general.</p>
 <p>Interested in machine learning, mobile development, cloud and computer graphics.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -23,6 +23,11 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+## 🖥️Open source contributions 
+- [Phoenix-RTOS](https://github.com/phoenix-rtos)
+    - Implemented POSIX syscalls in kernel and userspace
+    - Worked on WebAssembly runtime port
 
 ## 🛠️Projects done by me
 - [MiniTest](https://github.com/R4ken/MiniTest)
