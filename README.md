@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kuba 👋</h1>
-<p>I'm 2nd year student pursuing Computer Science and Information Systems at Warsaw University of Technology.</p>
-<p>Passionate about algorithmics and low level programming.</p>
+<p>I'm 3rd year student pursuing Computer Science and Information Systems at Warsaw University of Technology.</p>
+<p>Passionate about algorithmics, compilers and low level programming.</p>
 <p>Interested in machine learning, mobile development, cloud and computer graphics.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
