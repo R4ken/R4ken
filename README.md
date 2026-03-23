@@ -45,3 +45,7 @@
 - [Monte Carlo e number estimation](https://github.com/R4ken/Monte-Carlo-e-number-estimation)
     - Estimating base of natural logarithm using Monte Carlo method
     - Written in C using pthreads
+- [OpenGL renderer](https://github.com/R4ken/opengl_project)
+    - Rendering a 3D scene using OpenGL and C++
+    - Simple GUI using ImGUI
+    - Using deferred shading for local lightning 
