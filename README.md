@@ -48,4 +48,7 @@
 - [OpenGL renderer](https://github.com/R4ken/opengl_project)
     - Rendering a 3D scene using OpenGL and C++
     - Simple GUI using ImGUI
-    - Using deferred shading for local lightning 
+    - Using deferred shading for local lightning
+- [LoanHub](https://github.com/ramszaj513/loan-hub-backend)
+    - Full stack .NET + React + PostgreSQL web application
+- MTCS Checkers engine CUDA 
