@@ -50,5 +50,6 @@
     - Simple GUI using ImGUI
     - Using deferred shading for local lightning
 - [LoanHub](https://github.com/ramszaj513/loan-hub-backend)
-    - Full stack .NET + React + PostgreSQL web application
-- MTCS Checkers engine CUDA 
+    - Web application written in ASP.NET + PostgreSQL
+- [CUDA checkers engine](https://github.com/R4ken/CUDA-Checkers)
+    - Checkers engine using parallel implementation of monte carlo tree search running on GPU using CUDA.
